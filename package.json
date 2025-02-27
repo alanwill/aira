@@ -5,7 +5,7 @@
   "author": "Alan Williams <alan.williams@autodesk.com>",
   "description": "I'm Aira (Artificially Intelligent Robot for Autodesk) and I aim to please. Ask me anything",
   "dependencies": {
-    "hubot": "^2.16.0",
+    "hubot": "^11.3.4",
     "hubot-business-cat": "^1.2.5",
     "hubot-diagnostics": "0.0.1",
     "hubot-github-repo-event-notifier": "^1.5.1",
